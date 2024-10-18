@@ -31,4 +31,12 @@ Caso o castelo perca toda sua defesa, o próximo ataque que sofrer que atingir a
 
 #
 
+#### Como rodar:
+
+Para rodar o jogo é necessario importar para uma IDE que suporte Java (Ex: Eclipse) a pasta "jogo_castelos" que contem todas as classes necessarias para rodar o jogo. Depois disso basta rodar a classe "JogoMain". Obs: é necessario que todas as classes estejam dentro da pasta "jogo_castelos" para rodar.
+
+Por padrão de teste deixei tudo de forma automatica onde serve apenas para vizualização dos resultados. São criados 4 castelos: 2 Europeus e 2 Japoneses com suas devidas caracteristicas.
+
+#
+
 # OBS: Jogo em teste! Sem função de jogar.
